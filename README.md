@@ -19,7 +19,6 @@ Veja você mesmo: http://to-do-list-ten-lemon.vercel.app/
 
 <p align="center"> 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
@@ -41,7 +40,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Foi usado o [Github](https://github.com/) para controle de versão.
 
-## Linceça
 
 ## 🎁 Expressões de gratidão
 
@@ -55,7 +53,7 @@ Foi usado o [Github](https://github.com/) para controle de versão.
 
 
 <a href="https://github.com/DougConceicao">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/83365446?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/114538750?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Douglas Conceição</b></sub></a> <a href="https://github.com/DougConceicao" title="My Photo Profile">🚀</a>
 
